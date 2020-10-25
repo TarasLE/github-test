@@ -1,0 +1,27 @@
+{
+  "name": "github-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarasLE/github-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarasLE/github-test/issues"
+  },
+  "homepage": "https://github.com/TarasLE/github-test#readme",
+  "dependencies": {
+    "webpack": "^5.1.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.1.0"
+  },
+  "keywords": []
+}
